@@ -101,7 +101,4 @@ plt.show()
 * Final validation accuracy: \~98.9%
 * Model performs very well on handwritten digit recognition tasks.
 
-## 📌 Notes
 
-* You can experiment by adjusting the number of layers, filters, or dropout rate.
-* Try training on fewer epochs or with different optimizers to see changes in performance.
