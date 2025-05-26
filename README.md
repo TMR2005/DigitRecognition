@@ -14,13 +14,15 @@ You can install the dependencies using:
 
 ```bash
 pip install numpy matplotlib tensorflow
+```
 
 📥 Dataset
 The project uses the MNIST dataset, which is directly loaded using:
+```bash
   from keras.datasets import mnist
-
+```
 🚀 Steps Performed
-
+1. Load Dataset
 
 
 
